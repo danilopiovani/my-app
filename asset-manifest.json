@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.bbf37a6c.chunk.css",
+    "main.js": "/my-app/static/js/main.0ed24d5a.chunk.js",
+    "main.js.map": "/my-app/static/js/main.0ed24d5a.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.b51f6de3.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.b51f6de3.js.map",
+    "static/css/2.de424728.chunk.css": "/my-app/static/css/2.de424728.chunk.css",
+    "static/js/2.feec32d0.chunk.js": "/my-app/static/js/2.feec32d0.chunk.js",
+    "static/js/2.feec32d0.chunk.js.map": "/my-app/static/js/2.feec32d0.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.c9efeb0d1bb0eca924dd1b98039c3cff.js": "/my-app/precache-manifest.c9efeb0d1bb0eca924dd1b98039c3cff.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/my-app/static/css/2.de424728.chunk.css.map",
+    "static/css/main.bbf37a6c.chunk.css.map": "/my-app/static/css/main.bbf37a6c.chunk.css.map",
+    "static/js/2.feec32d0.chunk.js.LICENSE.txt": "/my-app/static/js/2.feec32d0.chunk.js.LICENSE.txt",
+    "static/media/ProdA.jpg": "/my-app/static/media/ProdA.9b6d2bea.jpg",
+    "static/media/ProdB.jpg": "/my-app/static/media/ProdB.fb60ca0d.jpg",
+    "static/media/ProdC.jpg": "/my-app/static/media/ProdC.f2a7a478.jpg",
+    "static/media/ProdD.jpg": "/my-app/static/media/ProdD.2450b2c8.jpg",
+    "static/media/ProdE.jpg": "/my-app/static/media/ProdE.60bc500f.jpg",
+    "static/media/ProdF.jpg": "/my-app/static/media/ProdF.c3967eff.jpg",
+    "static/media/shopping.webp": "/my-app/static/media/shopping.21bac439.webp",
+    "static/media/shopping.jpg": "/my-app/static/media/shopping.2c65e96a.jpg",
+    "static/media/uploadImage.png": "/my-app/static/media/uploadImage.83c59c46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b51f6de3.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.feec32d0.chunk.js",
+    "static/css/main.bbf37a6c.chunk.css",
+    "static/js/main.0ed24d5a.chunk.js"
+  ]
+}
